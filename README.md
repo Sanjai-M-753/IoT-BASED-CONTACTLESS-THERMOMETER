@@ -13,4 +13,7 @@ Buzzer
 Blynk IoT Cloud
 
 **Block Diagram**
-``````````````<img width="809" height="430" alt="image" src="https://github.com/user-attachments/assets/5a14d604-b7ad-49d4-93bc-93a89acc43cc" />
+https://github.com/Sanjai-M-753/IoT-BASED-CONTACTLESS-THERMOMETER/blob/main/WhatsApp%20Image%202025-11-22%20at%2018.48.48_47460f72.jpg?raw=true
+
+**Circuit diagram**
+
