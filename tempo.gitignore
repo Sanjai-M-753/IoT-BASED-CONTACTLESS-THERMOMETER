@@ -1,0 +1,29 @@
+# Arduino build files
+*.elf
+*.bin
+*.hex
+*.eep
+*.dmp
+*.map
+
+# Compiled object files
+*.o
+
+# Arduino IDE settings
+*.orig
+*.bak
+
+# Temporary files
+*.tmp
+*.log
+
+# VSCode Arduino plugin
+.vscode/
+*.code-workspace
+
+# Platformio
+.pio/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
