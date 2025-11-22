@@ -16,4 +16,8 @@ Blynk IoT Cloud
 https://github.com/Sanjai-M-753/IoT-BASED-CONTACTLESS-THERMOMETER/blob/main/WhatsApp%20Image%202025-11-22%20at%2018.48.48_47460f72.jpg?raw=true
 
 **Circuit diagram**
+https://github.com/Sanjai-M-753/IoT-BASED-CONTACTLESS-THERMOMETER/blob/main/WhatsApp%20Image%202025-11-22%20at%2018.49.07_c4145451.jpg?raw=true
+https://github.com/Sanjai-M-753/IoT-BASED-CONTACTLESS-THERMOMETER/blob/main/WhatsApp%20Image%202025-11-22%20at%2018.51.14_519f2eb1.jpg?raw=true
 
+**Result and Output image**
+https://github.com/Sanjai-M-753/IoT-BASED-CONTACTLESS-THERMOMETER/blob/main/WhatsApp%20Image%202025-11-22%20at%2018.50.34_ee9ed1d6.jpg?raw=true
